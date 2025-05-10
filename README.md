@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring Boot Framework**
 
-- 💬 Ask me about **Java,Sql/Plsql,JSP,SERVLET,JDBC,SpringBoot**
+- 💬 Ask me about **Java, Sql/Plsql, Spring Security, SDLC, Spring Boot(MVC)**
 
 - 📫 How to reach me **kuberp9589@gmail.com**
 
