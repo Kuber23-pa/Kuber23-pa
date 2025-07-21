@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuber Patel</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [Task Manager Application]
+- 🔭 I’m currently working on Task Manager Application
 
 - 🌱 I’m currently learning **Spring Boot Framework**
 
